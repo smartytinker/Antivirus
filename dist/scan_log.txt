@@ -1,0 +1,55 @@
+[2025-04-07 12:27:39] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/python-3.13.2-amd64(1).exe
+[2025-04-07 12:27:39] [+] YARA rules loaded successfully.
+[2025-04-07 12:31:45] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/python-3.13.2-amd64(1).exe
+[2025-04-07 12:31:45] [+] YARA rules loaded successfully.
+[2025-04-07 14:05:02] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/yara64.exe
+[2025-04-07 14:05:02] [+] YARA rules loaded successfully.
+[2025-04-07 14:21:28] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/yara64.exe
+[2025-04-07 14:21:28] [+] YARA rules loaded successfully.
+[2025-04-07 14:21:52] [~] Scanning file: C:/Siddhant/Antivirus/quarantine/virus.txt
+[2025-04-07 14:21:52] [+] YARA rules loaded successfully.
+[2025-04-07 14:21:52] [!] Match found: C:/Siddhant/Antivirus/quarantine/virus.txt
+[2025-04-07 14:21:52] [+] Quarantined: C:\Siddhant\Antivirus\dist\quarantine\virus.txt
+[2025-04-07 15:08:36] [~] Scanning file: C:/Users/varsha/Downloads/The Beekeeper (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX].torrent
+[2025-04-07 15:08:36] [+] YARA rules loaded successfully.
+[2025-04-07 15:08:53] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-07 15:08:53] [+] YARA rules loaded successfully.
+[2025-04-07 15:08:53] [!] Match found: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-07 15:08:53] [+] Quarantined: C:\Siddhant\Antivirus\dist\quarantine\virus.txt
+[2025-04-07 15:40:58] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/yara64.exe
+[2025-04-07 15:40:58] [+] YARA rules loaded successfully.
+[2025-04-07 15:41:12] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-07 15:41:12] [+] YARA rules loaded successfully.
+[2025-04-07 15:41:12] [!] Match found: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-07 15:41:12] [+] Quarantined: C:\Siddhant\Antivirus\dist\quarantine\virus.txt
+[2025-04-07 20:18:36] [~] Scanning file: C:/Users/varsha/Downloads/The Beekeeper (2024) [1080p] [BluRay] [5.1] [YTS.MX].torrent
+[2025-04-07 20:18:42] [+] YARA rules loaded successfully.
+[2025-04-07 20:19:09] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-07 20:19:09] [+] YARA rules loaded successfully.
+[2025-04-07 20:19:09] [!] Match found: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-07 20:19:09] [+] Quarantined: C:\Siddhant\Antivirus\dist\quarantine\virus.txt
+[2025-04-08 12:36:06] [~] Scanning file: C:/Users/varsha/Downloads/World War Z (2013) [1080p] [BluRay] [YTS.MX].torrent
+[2025-04-08 12:36:10] [+] YARA rules loaded successfully.
+[2025-04-08 12:36:27] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-08 12:36:27] [+] YARA rules loaded successfully.
+[2025-04-08 12:36:27] [!] Match found: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-08 12:36:27] [+] Quarantined: C:\Siddhant\Antivirus\dist\quarantine\virus.txt
+[2025-04-11 08:34:59] [~] Scanning file: C:/Users/varsha/Downloads/The Accountant (2016) [1080p] [BluRay] [YTS.MX].torrent
+[2025-04-11 08:35:03] [+] YARA rules loaded successfully.
+[2025-04-11 08:35:18] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-11 08:35:18] [+] YARA rules loaded successfully.
+[2025-04-11 08:35:18] [!] Match found: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-11 08:35:18] [+] Quarantined: C:\Siddhant\Antivirus\dist\quarantine\virus.txt
+[2025-04-11 09:46:11] [~] Scanning file: C:/Users/varsha/Downloads/The Accountant (2016) [1080p] [BluRay] [YTS.MX].torrent
+[2025-04-11 09:46:11] [+] YARA rules loaded successfully.
+[2025-04-11 09:47:13] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-11 09:47:13] [+] YARA rules loaded successfully.
+[2025-04-11 09:47:13] [!] Match found: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-11 09:47:13] [+] Quarantined: C:\Siddhant\Antivirus\dist\quarantine\virus.txt
+[2025-04-11 10:02:03] [~] Refreshed log window.
+[2025-04-11 13:48:31] [~] Scanning file: C:/Users/varsha/Downloads/The Gorge (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX].torrent
+[2025-04-11 13:48:37] [+] YARA rules loaded successfully.
+[2025-04-11 13:48:50] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-11 13:48:51] [+] YARA rules loaded successfully.
+[2025-04-11 13:48:51] [!] Match found: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-11 13:48:51] [+] Quarantined: C:\Siddhant\Antivirus\dist\quarantine\virus.txt

@@ -1,0 +1,18 @@
+[2025-04-07 11:58:44] [~] Scanning file: C:/Users/varsha/Downloads/Nobody (2021) [1080p] [BluRay] [5.1] [YTS.MX].torrent
+[2025-04-07 11:58:45] [+] YARA rules loaded successfully.
+[2025-04-07 12:07:18] [~] Scanning file: C:/Users/varsha/Downloads/The Accountant (2016) [1080p] [BluRay] [YTS.MX].torrent
+[2025-04-07 12:07:19] [+] YARA rules loaded successfully.
+[2025-04-07 12:07:42] [~] Scanning file: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-07 12:07:42] [+] YARA rules loaded successfully.
+[2025-04-07 12:07:42] [!] Match found: C:/Siddhant/Antivirus/dist/quarantine/virus.txt
+[2025-04-07 12:07:42] [+] Quarantined: C:\Siddhant\Antivirus\quarantine\virus.txt
+[2025-04-07 12:10:41] [~] Scanning file: C:/Users/varsha/Downloads/The Gentlemen (2019) [1080p] [BluRay] [5.1] [YTS.MX].torrent
+[2025-04-07 12:10:41] [+] YARA rules loaded successfully.
+[2025-04-07 12:10:49] [~] Scanning file: C:/Users/varsha/Downloads/The Accountant (2016) [1080p] [BluRay] [YTS.MX].torrent
+[2025-04-07 12:10:50] [+] YARA rules loaded successfully.
+[2025-04-07 12:10:59] [~] Scanning file: C:/Users/varsha/Downloads/The Accountant (2016) [1080p] [BluRay] [YTS.MX].torrent
+[2025-04-07 12:10:59] [+] YARA rules loaded successfully.
+[2025-04-07 12:14:03] [~] Scanning file: C:/Users/varsha/Downloads/The Beekeeper (2024) [1080p] [BluRay] [5.1] [YTS.MX].torrent
+[2025-04-07 12:14:03] [+] YARA rules loaded successfully.
+[2025-04-07 12:21:48] [~] Log window refreshed.
+[2025-04-07 12:26:10] [~] Refreshed log window.
