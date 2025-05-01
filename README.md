@@ -39,3 +39,16 @@ Center:
 ## Installation Instructions
 
 Works on Windows, Linux, or macOS (Python 3 required)
+clone the repository -
+```bash
+git clone https://github.com/your-username/antivirus-app.git
+cd antivirus-app
+pip install -r requirements.txt (For installing ther requirements)
+Run the app - python main.py 
+
+---
+
+Author - smartytinker
+
+
+
